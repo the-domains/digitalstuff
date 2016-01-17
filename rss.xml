@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DigitalStuff]]></title>
+        <description><![CDATA[DigitalStuff]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Jan 2016 12:54:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[There's a chat for that: Apple's biggest platform opportunity yet]]></title>
+            <description><![CDATA[<article><h1>There's a chat for that: Apple's biggest platform opportunity yet</h1><p>It's been months since I've written this piece but just never got around to publishing... I figured while WWDC is going on it might be a good idea to toss out this idea that's been swimming around in my head for a long time.</p><img src="https://cdn-images-1.medium.com/max/2000/1*v6Z-TJrIbmV2n9ovT-2ybw.png"></article>]]></description>
+            <link>https://medium.com/@mg/there-s-a-chat-for-that-apple-s-biggest-platform-opportunity-yet-19d5b1870857#.r0kg3le87</link>
+            <guid isPermaLink="false">6b0ccf3a-67ce-4736-8c8e-79180d46de9a</guid>
+            <pubDate>Sun, 17 Jan 2016 12:54:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
