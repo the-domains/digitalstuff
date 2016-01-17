@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[DigitalStuff]]></title>
         <description><![CDATA[DigitalStuff]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/digitalstuff/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 12:54:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 13:08:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/digitalstuff/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Banks are struggling to get it]]></title>
+            <description><![CDATA[<article><h1>Banks are struggling to get it</h1><p>Banks are missing a golden opportunity to embrace London's rich FinTech scene 2014 has marked an exciting new professional challenge for me - to get out of the office and into the London FinTech scene. Over the last three months together with my colleague, Frank Ray, we have been on an exploratory journey to find out how FinTech will affect banks providing corporate treasury services.</p><img src="https://cdn-images-1.medium.com/max/800/1*vj_jlUuyDlsVn3P2RmRCmA.jpeg"></article>]]></description>
+            <link>https://medium.com/@HappyDaysInBali/banks-are-struggling-to-get-it-84e88a0ffa16#.1or3gx9ck</link>
+            <guid isPermaLink="false">c1efa4cf-90ff-4f9c-ba14-197ddc980934</guid>
+            <pubDate>Sun, 17 Jan 2016 13:08:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[There's a chat for that: Apple's biggest platform opportunity yet]]></title>
             <description><![CDATA[<article><h1>There's a chat for that: Apple's biggest platform opportunity yet</h1><p>It's been months since I've written this piece but just never got around to publishing... I figured while WWDC is going on it might be a good idea to toss out this idea that's been swimming around in my head for a long time.</p><img src="https://cdn-images-1.medium.com/max/2000/1*v6Z-TJrIbmV2n9ovT-2ybw.png"></article>]]></description>
